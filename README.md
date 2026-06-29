@@ -10,7 +10,6 @@ A simple and responsive Todo List application built with React and Vite.
 - Filter tasks
   - All tasks
   - Completed tasks
-  - Pending tasks
     
 ## Technologies Used
 
